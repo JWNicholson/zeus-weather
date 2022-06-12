@@ -1,0 +1,15 @@
+Use Material UI 
+use openweather.org icons for weather condition
+font-family - Roboto, Ubuntu
+
+Phase One
+openweathermap.org
+
+1.current weather only
+2.searchable by city
+3.(optional) user geo location to searchable
+4. (optional) background changes to reflect weather
+
+Phase Two
+1. let user choose imperial or metric.
+

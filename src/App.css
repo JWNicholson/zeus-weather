@@ -1,0 +1,17 @@
+.App {
+  color: gainsboro;
+  text-align: center;
+  background-image:url(./assets/images/pexels-ralph-w-lambrecht-1446076.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+
+.app-header {
+  text-transform: capitalize;
+  text-shadow: 1px 1px 1px #080354;
+}
+
+
